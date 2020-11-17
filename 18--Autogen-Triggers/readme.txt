@@ -1,0 +1,1 @@
+Use the 10.10.200.3 relay server for this lab.
