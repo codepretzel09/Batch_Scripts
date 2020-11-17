@@ -1,0 +1,1 @@
+wmic /user:administrator /password:student /Failfast:on /node:PC10 product call Install PackageLocation="C:\INSTALL\PACKAGE.MSI" AllUsers=True
